@@ -20,7 +20,8 @@ angular.module('bb163', [
     'ui.router',
     'ngMaterial',
     'firebase',
-    'ngmUtils'
+    'ngmUtils',
+    'uiGmapgoogle-maps'
   ])
   .constant('moment', moment)
   .config(config)
