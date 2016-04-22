@@ -1,5 +1,5 @@
 {
-  "firebase": "material-pg",
+  "firebase": "bb-163",
   "public": "dist",
   "ignore": [
     "firebase.json",
