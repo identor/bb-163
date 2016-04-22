@@ -1,0 +1,9 @@
+{
+  "firebase": "material-pg",
+  "public": "dist",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
